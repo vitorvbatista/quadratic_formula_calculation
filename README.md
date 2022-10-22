@@ -4,8 +4,7 @@ code capabilities when working with mathematics.
 But in this project I managed to solve simple quadratic equation without Sympy, with purpose to train python and regex
 skills.
 So far, these quadratic equation models are accepted:
-    12x² + 9x - 4 = 0
-    x² - 5x + 6 = 0
-    -x² + x + 12 = 0
+    12x² + 9x - 4 = 0   /
+    x² - 5x + 6 = 0   /
+    -x² + x + 12 = 0   /
     6x² + x - 1 = 0
-
